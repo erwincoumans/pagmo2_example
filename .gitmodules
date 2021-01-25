@@ -1,0 +1,12 @@
+[submodule "third_party/oneTBB"]
+	path = third_party/oneTBB
+	url = https://github.com/oneapi-src/oneTBB
+[submodule "third_party/eigen"]
+	path = third_party/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "third_party/pagmo2"]
+	path = third_party/pagmo2
+	url = https://github.com/esa/pagmo2.git
+[submodule "third_party/boost"]
+	path = third_party/boost
+	url = https://github.com/erwincoumans/boost.git
