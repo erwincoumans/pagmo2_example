@@ -14,8 +14,8 @@ popd
 cd %ROOT%
 
 pushd third_party\boost
-./bootstrap.sh
-./b2 --with-serialization
+call bootstrap.bat
+b2 --with-serialization
 popd
 cd %ROOT%
 
